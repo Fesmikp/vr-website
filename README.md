@@ -4,7 +4,7 @@ This is a fully responsive and visually engaging **VR Product Showcase Website**
 
 ## 📸 Live Demo
 
-🔗 [Click here to view the live site](https://yourusername.github.io/vr-website)
+🔗 [Click here to view the live site](https://fesmikp.github.io/vr-website/)
 
 
 ---
