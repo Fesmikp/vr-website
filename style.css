@@ -48,7 +48,7 @@ html{
 .features-bg-container {
     background-color: #ffffff;
     font-family: "Roboto";
-    height: 100vh;
+   
 }
 
 .features-main-heading {
@@ -234,7 +234,7 @@ html{
     transform: scale(1.05);
 }
 .vr-contact-us-bg-container {
-    background-color: #222b36;
+    background-color: #19232d;
     background-size: cover;
     text-align: center;
 }
