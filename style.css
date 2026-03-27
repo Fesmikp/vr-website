@@ -304,7 +304,11 @@ html{
     border-color: #5a7184;
     height: 30px;
     width: 30px;
-    border-radius: 500px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    
     
 }
 .hor-line{
